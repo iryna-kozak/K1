@@ -1,0 +1,26 @@
+Hello，Lee
+
+There are some points to clarify with you:
+
+1.  The team develops 3 types of accounts :  
+- ми створюємо, чи він має можливість створити?
+
+- students (beginner clients)
+- traders 
+- admin (for managing user functionality).
+
+2. Different types of users may have different functionality. 
+3. The difference in functionality for various user types is in their ability to use AI - and scripting.
+
+
+4. The team  developes the ability for admin to share custom templates and basic features with clients (indidvidually and in groups).
+
+
+ - - - - - -- - - - - - -- - - - - - - -
+
+5. Connection to CRM ? 
+  - what exactly it means to connect CRM to platform? How it should affect the trading platform?
+
+ 
+6. Ability to scan the different markets for signals with proprietary indicators and systems. 
+   Could this then place an order on the chart?  - що значить це формулювання? це змога створювати ордери скриптингом?
